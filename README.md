@@ -1,25 +1,9 @@
-### Hi there 👋
-
-<!--
-**IgorFZ/IgorFZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- :books: I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Igor - [IzTimeToCode][youtube] 👋 
 
 ## I'm a Developer and Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 Always looking to improve my knowledge
+- :books: Always looking to improve my knowledge
 - 🥅 2022 Goals: Learn more about web3 and python3
 - ⚡ Fun fact: I love to ride a nike and play games / e-sports
 
