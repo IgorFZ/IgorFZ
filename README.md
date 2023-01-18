@@ -12,8 +12,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/fz_igor#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/fz_igor#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/fz_igor06#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/fz_igor06#gh-dark-mode-only)
 
 ### Languages and Tools:
 
