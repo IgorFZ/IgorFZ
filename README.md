@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - :books: Always looking to improve my knowledge
-- 🥅 2022 Goals: Learn more about web3 and python3
-- ⚡ Fun fact: I love to ride a nike and play games / e-sports
+- 🥅 2022 Goals: Learn more about vue and ruby
+- ⚡ Fun fact: I love to ride a bike and play games / e-sports
 
 ### Languages and Tools:
 
