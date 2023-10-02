@@ -1,10 +1,10 @@
 # Hi there, I'm Igor 👋 
 
-## I'm a Developer and Student!!
+## I'm a Full-Stack Web Developer and a Computer Engineering Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - :books: Always looking to improve my knowledge
-- 🥅 2022 Goals: Learn more about vue and ruby
+- 🥅 Focus: Improve my backend knowledge
 - ⚡ Fun fact: I love to ride a bike and play games / e-sports
 
 ### Languages and Tools:
