@@ -6,5 +6,5 @@ Desenvolvedor na **Sancon** · Engenharia de Computação na **Unoesc**
 
 <img src="./assets/stack.svg" alt="Stack: TypeScript, Node.js, Vue, Python, Claude Code, MCP, RAG, LLMs locais, PostgreSQL, Prisma, Docker, GitHub Actions" width="100%"/>
 
-<a href="https://www.linkedin.com/in/igorfz/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="40"/></a>&nbsp;
-<a href="https://www.instagram.com/fz_igor06"><img src="./assets/link-instagram.svg" alt="Instagram" height="40"/></a>
+<a href="https://www.linkedin.com/in/igor-zampieri/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="40"/></a>&nbsp;
+<a href="https://www.instagram.com/igorfz.fz"><img src="./assets/link-instagram.svg" alt="Instagram" height="40"/></a>
