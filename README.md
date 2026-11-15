@@ -1,20 +1,10 @@
-# Hi there, I'm Igor 👋 
+<img src="./assets/header.svg" alt="Igor Zampieri — desenvolvedor de software" width="100%"/>
 
-## I'm a Full-Stack Web Developer and a Computer Engineering Student!!
+Desenvolvedor full stack. No dia a dia trabalho com **TypeScript**, **Node.js** e **Vue**, e uso agentes de IA no meu fluxo de desenvolvimento.
 
-- 🌱 I’m currently learning everything
-- :books: Always looking to improve my knowledge
-- 🥅 Focus: Improve my backend knowledge
-- ⚡ Fun fact: I love to ride a bike and play games / e-sports
+Desenvolvedor na **Sancon** · Engenharia de Computação na **Unoesc**
 
-### Languages and Tools:
+<img src="./assets/stack.svg" alt="Stack: TypeScript, Node.js, Vue, Python, Claude Code, MCP, RAG, LLMs locais, PostgreSQL, Prisma, Docker, GitHub Actions" width="100%"/>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorFZ&layout=compact&theme=midnight-purple"/> </a>
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/igorfz/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/igorfz/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/fz_igor06#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/fz_igor06#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/igorfz/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="40"/></a>&nbsp;
+<a href="https://www.instagram.com/fz_igor06"><img src="./assets/link-instagram.svg" alt="Instagram" height="40"/></a>
